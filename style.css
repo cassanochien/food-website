@@ -11,7 +11,7 @@
     height: 46px;
     display: flex;
     align-items: center; 
-    position: fixed;
+    
 }
 .group-21 {
     /* border: none; */
@@ -34,7 +34,12 @@
     color: #150C01;
     font-family: 'Roboto';
     font-size: 16px;
-    
+}
+.abc a:hover {
+    color: #DC780B;
+}
+.group-21 :hover {
+    color:#DC780B;
 }
 #btnBookingNow{
     border: none;
