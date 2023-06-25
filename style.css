@@ -1,0 +1,803 @@
+/* -----------------hero-aria&header----------- */
+.food-image {
+    border: none;
+    width: 50px;
+    height: 0px;
+    margin-left: 486px;
+}
+.Header {
+    border: none;
+    width: 1140px;
+    height: 46px;
+    display: flex;
+    align-items: center; 
+    position: fixed;
+}
+.group-21 {
+    /* border: none; */
+    /* border: 1px solid rebeccapurple; */
+    display: flex;
+    width: 548px;
+    height: 19px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #150C01;
+    margin-left: 35px;
+}
+.group-21>div {
+    font-family: 'Roboto';
+    margin-left: 38px;
+}
+.abc a {
+    text-decoration: none;
+    margin-left: 15px;
+    color: #150C01;
+    font-family: 'Roboto';
+    font-size: 16px;
+    
+}
+#btnBookingNow{
+    border: none;
+    width: 165px;
+    height: 46px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    background-color: #DC780B;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 208px;
+    font-family: 'Roboto';
+}
+#btnBookingNow:hover{
+    background-color: #ff8484;
+}
+#login {
+    width: 155px;
+    height: 46px;
+    margin-left: 15px;
+    background-color: #DC780B;
+    font-weight: 400;
+    border-radius: 5px;
+    border: none;
+}
+#login:hover {
+    background-color:#ff8484 ;
+}
+#login-link {
+    text-decoration: none;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.Hero-Aria {
+    border: none;
+    width: 1287px;
+    height: 678.85px;
+    margin-top: 30px;
+    margin-left: 150px;     
+}
+.group-6 {
+    border: none;
+    width: 555px;
+    height: 356px;
+    margin-top: 160px;
+}
+.hero-text {
+    border: none;
+    width: 555px;
+    height: 246px;
+    color: #150C01;
+    display: flexbox;
+}
+.text-1 {
+    font-weight: 700;
+    font-size: 48.83px;
+    line-height: 57.6px;
+    font-family: 'Philosopher';
+}
+.text-2 {
+    margin-top: 42px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Roboto';
+}
+.button {
+    border: none;
+    width: 358px;
+    height: 60px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+#btnOrderNow{
+    border: none;
+    width: 170px;
+    height: 60px;
+    color: #FFFFFF;
+    background-color: #DC780B;
+    display:flex;
+    justify-content: center;
+    border-radius: 5px;
+    font-weight:600;
+    font-family: 'Roboto';
+}
+#btnFoodDetails {
+    border: 1px solid #ffc281;
+    width: 170px;
+    height: 60px;
+    color:#DC780B;
+    display:flex;
+    justify-content: center;
+    border-radius: 5px;
+    font-weight:600;
+    background-color: white;
+    font-family: 'Roboto';
+}
+#btnOrderNow:hover{
+    background-color: #ff8484;
+}
+#btnFoodDetails:hover{
+    background-color: #ff8484;
+}
+/*---------------------------features---------------------------------*/
+.Features {
+    width: 1080px;
+    height: 333px;
+    margin: auto;
+}
+.TD {
+    width: 100%;
+    height: 102px;
+    text-align: center;
+}
+.Text1 {
+    font-size: 16px;
+    color: #DC780B;
+    text-transform: uppercase;
+    font-family: 'Roboto';
+    letter-spacing: 0.2em;
+}
+.Text2 {
+    font-size: 31px;
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 700;
+}
+.group24-1 {
+    width: 100%;
+    height: 228px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.group24-1 div{
+    font-family: 'Philosopher';
+}
+.group24-1 span{
+    font-family: 'Roboto';
+}
+.group-25>div {
+    margin-bottom: 20px;
+}
+.group-24 {
+    width: 88px;
+    height: 88px;
+    border-radius: 100px;
+    background-color: #FBF1E7;
+    margin: auto;
+    text-align: center;
+}
+.group-24 img {
+    margin-top: 17px;
+}
+.group-24:hover {
+    border: 2px solid #ffaeae;
+}
+.group-25 div:nth-child(2){
+    font-size: 25px; 
+}
+.group-26>div {
+    margin-bottom: 20px;
+}
+.group-23 {
+    width: 88px;
+    height: 88px;
+    border-radius: 100px;
+    background-color: #FBF1E7;
+    margin: auto;
+    text-align: center;
+}
+.group-23 img {
+    margin-top: 17px;
+}
+.group-23:hover {
+    border: 2px solid #ffaeae;
+}
+.group-26 div:nth-child(2){
+    font-size: 25px; 
+}
+.group-27>div {
+    margin-bottom: 20px;
+}
+.group-22 {
+    width: 88px;
+    height: 88px;
+    border-radius: 100px;
+    background-color: #FBF1E7;
+    margin: auto;
+    text-align: center;
+}
+.group-22 img {
+    margin-top: 17px;
+}
+.group-22:hover {
+    border: 2px solid #ffaeae;
+}
+.group-27 div:nth-child(2){
+    font-size: 25px; 
+}
+/*-----------------------about-us---------------------------*/
+.About_us {
+    display: flex;
+}
+.vector-3 {
+    position: absolute;
+    width: 957px;
+    height: 801px;
+    justify-content: left;
+    margin-top: -100px;
+}
+#group-96:hover{
+    border: 2px solid rgb(255, 140, 242);
+}
+.group-97{
+    width: 1140px;
+    height: 500px;
+    margin: auto;
+    margin-top: 10%;
+}
+#group-96 {
+    position: absolute;
+    width: 555px;
+    height: 500px;
+    border-radius: 30px;
+}
+.group-92 {
+    position: absolute;
+    width: 488px;
+    height: 315px;
+    right: 12%;
+    margin-top: 6%;
+}
+.text7 {
+    font-size: 16px;
+    font-family: 'Roboto';
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #DC780B;
+}
+.text8 {
+    font-size: 31px;
+    margin-top: 10px;
+    font-family: 'Philosopher';
+}
+.text9 {
+    line-height: 24px;
+    margin-top: 30px;
+    color: #150C01;
+    font-size: 16px;
+    font-family: 'Roboto';
+}
+#read-more {
+    width: 142px;
+    height: 42px;
+    margin-top: 29px;
+    background-color: #DC780B;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-weight: 600;
+    font-family: 'Roboto';
+}
+#read-more:hover{
+    background-color: #ff8484;
+}
+/* --------------------------menu-------------------------- */
+.Menu{
+    width:1150px;
+    height: 1220px;
+    /* border: 1px solid gray; */
+    margin: auto;
+    padding: 20px;
+    margin-top: 40px;
+}
+.group1{
+    width: 748px;
+    height: 146px;
+    margin-left:197px ;
+    margin-right: 197px;
+}
+.group1-text1{
+    width: 55px;
+    height: 24px;
+    margin-left:346px ;
+    margin-right: 346px;
+    color: #DC780B;
+    font-family: 'Roboto';
+    letter-spacing: 0.2em;
+    font-size: 16px;
+}
+.group1-text2{
+    width: 325px;
+    height: 24px;
+    margin-left:210px;
+    margin-right: 210px;
+    margin-top: 8px;
+    font-family: 'Philosopher';
+    font-size: 31px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.group1-text3{
+    width: 748px;
+    height: 64px;
+    margin-top: 24px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;    
+}
+/* ............................................ */
+.container{
+    width: 1150px;
+    height: 922px;   
+    margin-left: 13px;
+    /* border: 1px solid gray; */
+}
+.dish-items{
+    display: flex;
+    flex-wrap: wrap;
+}
+.dish-item{
+    width: 360px ;
+    height: 446px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-top-left-radius: 30%;
+    border:  1px solid rgba(0, 0, 0, 0.1);
+    justify-content: space-between;
+    background-color:#ffffff ;
+}
+.dish-item img{
+    border-top-left-radius:30% ;
+    border-bottom-right-radius: 30%;
+    transition: all 0.3s ease;
+}
+.dish-item img:hover{
+    transform: translateY(-13px);
+}
+.dish-item-text{
+    display: flex;
+    flex-wrap: wrap;
+}
+#more{
+    margin: 0px 100px 25px 25px;
+    width: 38px;
+    height: 38px;
+    border-radius: 10px;
+    background-color: #DC780B;
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+    border: none;
+    justify-content: center;
+}
+#more:hover {
+    background-color: #8d0101;
+}
+#learn{
+    position: absolute;
+    width: 142px;
+    height: 42px;
+    left: 600px;
+    margin-top: 50px;
+    background-color: #DC780B;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    font-family: 'Roboto';
+}
+#learn:hover {
+    background-color: #ff8484;
+}
+.voted {
+    margin-left: 50px;
+}
+/* cart */
+.cart{
+    position: fixed;
+    height: 100vh;
+    width: 400px;
+    right: -100%;
+    top: 0;
+    padding: 12px 20px;
+    overflow-y: scroll;
+    text-align: center;
+    padding-top: 30px;
+    background-image: url(images/image5/imgbrr.jpg);
+    color: rgb(103, 0, 98);
+    font-family: 'Philosopher'
+}
+.cart h2{
+    margin-top: 20px ;
+}
+.cart table{
+    width: 100%;
+}
+.cart table thead tr th:first-child{
+    text-align: left;
+}
+.cart table tr td {
+    border-bottom:1px solid rgba(0, 0, 0, 0.1);
+    padding: 12px;
+}
+.cart table thead tr th:last-child{
+    text-align: right;
+}
+.cart table tbody tr td:last-child{
+    text-align: right;
+}
+
+.cart button{
+    margin-top: 12px;
+    height: 30px;
+    padding: 0 20px ;
+    cursor: pointer;
+    border: 1px solid red;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    background-color: rgb(3, 119, 154);
+    color: rgb(46, 13, 13);
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+.buy {
+    font-weight: 600;
+}
+
+/* ---------------------app-download----------------------------- */
+.App-download {
+    width: 100%;
+    height: 658px;
+    display: flex;
+}
+.group-103 {
+    width: 100%;
+    height: 518px;
+    margin: auto;
+    background-color: #FBF1E7;
+}
+.group-100 {
+    position: absolute;
+    width: 555px;
+    height: 275px;
+    margin: 114px 247px;
+}
+.group-100-t1 {
+    font-size: 16px;
+    color: #DC780B;
+    font-family: 'Roboto';
+    letter-spacing: 0.2em;
+}
+.group-100-t2 {
+    font-size: 31px;
+    margin-top: 5px;
+    font-family: 'Philosopher';
+}
+.group-100-t3 {
+    font-size: 16px;
+    color: rgb(123, 123, 123);
+    margin-top: 29px;
+    font-family: 'Roboto';
+    line-height: 24px;
+}
+.group-76 {
+    width: 372px;
+    height: 48px;
+    display: flex;
+    margin-top: 30px;
+}
+.app-store {
+    width: 163px;
+    height: 48px;
+    border-radius:7px;
+    background-color: black;
+    transition: all 0.2s ease;
+}
+.app-store a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 25px;
+}
+.app-store:hover {
+    transform: translateY(-3px); 
+    border: 2px solid rgb(251, 0, 255); 
+}
+.ch-play {
+    border: 1px solid #58acb5;
+    width: 163px;
+    height: 48px;
+    border-radius:7px;
+    margin-left: 30px;
+    transition: all 0.2s ease;
+}
+.ch-play a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 25px;
+}
+.ch-play:hover {
+    transform: translateY(-3px);
+    border: 2px solid rgb(251, 0, 255); 
+}
+.ch-play span {
+    margin-left: 25px;
+}
+.ch-play img {
+    position: absolute;
+    margin: -4px -5px;
+}
+.app-store span {
+    margin-left: 25px;
+}
+.app-store img {
+    position: absolute;
+    margin: -6px -5px;
+}
+.mask-group  {
+    position: absolute;
+    border: none;
+    border-radius: 20px;
+    margin-left: 880px;
+}
+.mask-group img {
+    border-radius: 50px;
+}
+/*-----------------------------testimonial-----------------------------*/
+.slider {
+    position: absolute;
+    width: 100%;
+    height: 496px;
+    display: flex;
+    transition: all 0.3s ease;
+}
+.slider>div {
+    overflow: hidden;
+}
+.slider>div:nth-child(2) {
+    transform: translateX(100%);
+}
+.slider>div:nth-child(3) {
+    transform: translateX(200%);
+}
+.testimonial {
+    position: absolute;
+    width: 98%;
+    height: 496px;
+    background-color: white;
+    padding: 25px;
+    margin-top: 70px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 15px;
+    /* border: 1px solid blue; */
+}
+.Group-68 {
+    width: 100%;
+    height: 145px; 
+}
+.Group-68 div:nth-child(1) {
+    font-size: 16px;
+    color: #DC780B;
+    font-family: 'Roboto';
+    letter-spacing: 0.2em;
+}
+.Group-68 div:nth-child(3) {
+    font-size: 31px;
+    font-family: 'Philosopher';
+}
+.Group-68 div:nth-child(5) {
+    font-size: 16px;
+    color: rgb(123, 123, 123);
+    margin-top: 5px;
+    font-family: 'Roboto';
+}
+#tnb-img{
+    width: 51px;
+    height: 51px;
+    border-radius: 100px;
+    margin-top: 50px;
+}
+.group-115 {
+    width: 100%;
+    height: 166px;
+    margin-top: 40px;
+}
+.group-115-1 div:nth-child(1) {
+    font-size: 16px;
+}
+.group-115 div:nth-child(3) {
+    font-size: 16px;
+    color: rgb(123, 123, 123);
+}
+.group-115-2 {
+    margin-top: 25px;
+}
+.group-115-2 div:nth-child(1) {
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+.group-115-2 div:nth-child(3) {
+    font-size: 12px;
+    color: rgb(123, 123, 123);
+    font-family: 'Roboto';
+}
+.ktdb {
+    width: 120px;
+    height: 17px;
+    margin: auto;
+}
+.ktdb:hover span {
+    color: rgb(255, 255, 113);
+}
+.vector {
+    position: absolute;
+    left: 492px;
+    margin-top: 390px;
+}
+.vector > div > span{
+    position: relative;
+    font-size: 25px;
+    color: rgb(226, 216, 216);
+}
+.vector > div:hover span{
+    border: 2px solid black;
+    opacity: 1;
+    color: rgb(97, 95, 95);
+}
+.left {
+    position: absolute;
+    left: -100px;
+    
+}
+.right {
+    position: absolute;
+    left: 600px;
+}
+.left:hover span{
+    color: #8e0426;
+}
+.right:hover span{
+    color: #8e0426;
+}
+/*--------------------------------contact------------------------------------------------*/
+.contact{
+    width: 100%;
+    height: 448px;
+    background: #fbf2e7;
+    display: flex;
+    margin-top: 700px;
+}
+.box{
+    width: 750px;
+    height: 216px;
+    margin-top: 115px;
+    margin-left: 345px;
+}
+.contact .box p{
+    color: #DC780B;
+    opacity: 0.7;
+    font-family: 'Roboto';
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.2em;
+}
+.contact .box h4{
+    font-family: 'Philosopher';
+    font-size: 31.25px;
+    margin-top: 15px;
+    margin-bottom: 45px;
+    align-items: center;
+    text-align: center;
+}
+.form{
+    background: #ffffff;
+    width: 750px;
+    height: 75px;
+    border-radius: 10px;
+    display: flex;
+}
+#message{
+    height: 73px;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    padding-left: 35px;
+}
+#button{
+    font-family: 'Roboto';
+    background: #DC780B;
+    width: 156px;
+    height: 75px;
+    border-radius: 10px;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    outline: none;
+    font-weight: 500;
+    font-size: 16px;
+}
+#button:hover{
+    background-color: #ff8484;
+}
+.footer{
+    background-color: #252525;
+    width: 100%;
+    height: 429px;
+    display: flex;
+}
+.footer .details img{
+    margin-top: 137px;
+    width: 61px;
+    height: 60px;
+}
+.details{
+    margin-left: 150px
+}
+.footer .details p{
+    font-family: 'Roboto';
+    color: #ffffff;
+    width: 262px;
+    font-size: 14px;
+    opacity: 0.5;
+}
+.footer .menu{
+    margin-top: 137px;
+    margin-left: 31px;
+    color: #ffffff;
+}
+.footer .menu h3{
+    font-family: 'Philosopher';
+    font-size: 18px;
+    margin-bottom: 23px;
+    margin-top: 0px;
+}
+.footer .menu a{
+    font-family: 'Roboto';
+    font-size: 14px;
+    margin-bottom: 20px;
+    width: 262px;
+    height: 13px;
+    opacity: 0.5;
+    line-height: 16px;
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+.footer .menu img{
+    margin-right: 10px;
+}
